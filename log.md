@@ -15,3 +15,11 @@
 **Thoughts:** I chose today's project as it was something my son could sit with me and not only follow along, but have fun testing with me. As the lesson pretty much handheld getting to the end result, I customized the project using the presented methods.
 
 **Link to work:** [Music Keys](https://js30.sgray.me/music-keys/)
+
+### Day 3: January 5, 2017
+
+**Today's Progress**: Worked on the second lesson of #Javascript30, including customizing the end result.
+
+**Thoughts:** I again had my son sitting with me, and we had fun following along with the lesson, testing, and changing the project.
+
+**Link to work:** [Simple Clock](https://js30.sgray.me/clock/)
