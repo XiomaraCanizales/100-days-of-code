@@ -23,3 +23,11 @@
 **Thoughts:** I again had my son sitting with me, and we had fun following along with the lesson, testing, and changing the project.
 
 **Link to work:** [Simple Clock](https://js30.sgray.me/clock/)
+
+### Day 4: January 6, 2017
+
+**Today's Progress**: Began work on small app for tracking some items
+
+**Thoughts:** Used Laravel to shortcut on some basic functionality, but it's probably a little too much for the project. I might move my app to a smaller framework.
+
+**Link to work:** (no public link)
