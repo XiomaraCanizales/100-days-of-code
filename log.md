@@ -31,3 +31,11 @@
 **Thoughts:** Used Laravel to shortcut on some basic functionality, but it's probably a little too much for the project. I might move my app to a smaller framework.
 
 **Link to work:** (no public link)
+
+### Day 5: January 9, 2017
+
+**Today's Progress**: Began creating plugin to alter display of siteId on Piwik
+
+**Thoughts:** Approached this project with less confidence than usual, as I have minimal previous experience with using Piwik's API and wasn't sure how much work it'd take to make a "small" adjustment. I managed to find a couple plugins that behave similar to what I was after, just with different goals, and I feel certain I will be able to finish the project with a little more time.
+
+**Link to work:** (no public link)
