@@ -39,3 +39,11 @@
 **Thoughts:** Approached this project with less confidence than usual, as I have minimal previous experience with using Piwik's API and wasn't sure how much work it'd take to make a "small" adjustment. I managed to find a couple plugins that behave similar to what I was after, just with different goals, and I feel certain I will be able to finish the project with a little more time.
 
 **Link to work:** (no public link)
+
+### Day 6: January 10, 2017
+
+**Today's Progress**: Worked on Piwik plugin
+
+**Thoughts:** I have the plugin partially completed, but am facing some difficulty inserting settings fields into the admin panel. I feel slightly bothered that I'm not sure where things are breaking, but not to point of frustration. Probably missing a basic (and "obvious") step, I'm going to look into it more tomorrow.
+
+**Link to work:** (no public link)
