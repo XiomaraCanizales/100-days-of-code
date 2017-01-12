@@ -47,3 +47,11 @@
 **Thoughts:** I have the plugin partially completed, but am facing some difficulty inserting settings fields into the admin panel. I feel slightly bothered that I'm not sure where things are breaking, but not to point of frustration. Probably missing a basic (and "obvious") step, I'm going to look into it more tomorrow.
 
 **Link to work:** (no public link)
+
+### Day 7: January 11, 2017
+
+**Today's Progress**: Continued coding Piwik plugin
+
+**Thoughts:** I was able to find where I was getting tripped yesterday. As I suspected, I was missing something that was fairly obvious, not choosing variable names carefully enough. I still need to test my plugin more, but I'm at the point of doing more adjusting than creating new parts.
+
+**Link to work:** https://github.com/sgrayme/piwik-siteidformat/
