@@ -55,3 +55,11 @@
 **Thoughts:** I was able to find where I was getting tripped yesterday. As I suspected, I was missing something that was fairly obvious, not choosing variable names carefully enough. I still need to test my plugin more, but I'm at the point of doing more adjusting than creating new parts.
 
 **Link to work:** https://github.com/sgrayme/piwik-siteidformat/
+
+### Day 8: January 12, 2017
+
+**Today's Progress**: Cleaned up code in Piwik plugin
+
+**Thoughts:** Time went fairly quick for working on my project today. It's functional, but there are something things I want to do to polish it up enough that it could be submitted to the official Piwik plugin directory.
+
+**Link to work:** https://github.com/sgrayme/piwik-siteidformat/
