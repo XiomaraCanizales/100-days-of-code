@@ -63,3 +63,11 @@
 **Thoughts:** Time went fairly quick for working on my project today. It's functional, but there are something things I want to do to polish it up enough that it could be submitted to the official Piwik plugin directory.
 
 **Link to work:** https://github.com/sgrayme/piwik-siteidformat/
+
+### Day 9: January 13, 2017
+
+**Today's Progress**: Drafted rating app
+
+**Thoughts:** I decided to take a break from regular projects to do something on silly side. I only worked on a rough concept today, but the end goal is to have something where people rate which of two random images they prefer and the images are ranked based on matchup results.
+
+**Link to work:** (no public link)
