@@ -4,6 +4,6 @@ Being a self-taught developer is indeed challenging, as I grapple with the learn
 I recognize that becoming a developer necessitates self-challenge and dedication to not only honing my coding skills but also cultivating discipline, consistency, and problem-solving abilities. Despite the difficulties, I remain passionate about coding and view these challenges as opportunities to push myself further.
 
 ## Contents
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
 * [Resources](resources.md)
+* [Rules](rules.md)
+* [week1](week1.md)
