@@ -7,3 +7,4 @@ I recognize that becoming a developer necessitates self-challenge and dedication
 * [Resources](resources.md)
 * [Rules](rules.md)
 * [week1](week1.md)
+* [week2](week2.md)
