@@ -1,6 +1,6 @@
 # Week 1
 
-## Day 1: 23/11/2023
+## Day 1: 11/23/2023
 
 ### Todo
 * Complete the capstone project: Blog web application using Node.js, Express.js, and EJS (WDB)
@@ -14,7 +14,7 @@ Struggling to understand the routes and how to make crud without a db is complic
 
 **No Link**
 
-## Day 2: 24/11/2023
+## Day 2: 11/24/2023
 
 ### Todo
 * Continue the Capstone Project
@@ -28,7 +28,7 @@ CSS is not functioning properly.
 
 **No Link**
 
-## Day 3: 25/11/2023
+## Day 3: 11/25/2023
 
 ### Todo
 * Finish Capstone Project
@@ -42,7 +42,7 @@ I'm sick so this is all the code i'll do for the day.
 
 [Link](https://github.com/XiomaraCanizales/FullStack-WebDevelpment-TheAppBrewery/tree/main/capstone_projects/3-blog_web_application)
 
-## Day 4: 26/11/2023
+## Day 4: 11/26/2023
 
 ### Todo
 * JavaScript section (FSWD)
@@ -56,7 +56,7 @@ Finish the Git, Version Control Section. No project today, just study
 
 **No Link**
 
-## Day 5: 27/11/2023
+## Day 5: 11/27/2023
 
 ### Todo
 * Frontend Mentor Project
@@ -70,12 +70,12 @@ Few code today, i'm visiting some family
 
 **No Link**
 
-### Day 6: 28/11/2023
+### Day 6: 11/28/2023
 
 ### Todo
 No code today again
 
-### Day 7: 29/11/2023
+### Day 7: 11/29/2023
 
 ### Todo 
 * S28: APIs (WDB)
@@ -93,7 +93,7 @@ No Link
 
 > I have extended my week to start a new one on monday
 
-### Day 8: 30/11/2023
+### Day 8: 11/30/2023
 ### Todo
 * S28: APIs (WDB)
 * frontend mentor project
@@ -109,7 +109,7 @@ I tried to work with Bootstrap but i like vanilla CSS better, and it's easy for 
 [Link](https://github.com/XiomaraCanizales/frontend-mentor-projects/tree/main/easybank-landing-page)
 
 
-### Day 9: 2/12/2023
+### Day 9: 12/2/2023
 ### Todo
 * S28: APIs (WDB)
 * frontend mentor project (mobile view)

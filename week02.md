@@ -58,7 +58,7 @@
 
 [ ] Day 10
 
-## Day 10: 04/12/2023
+## Day 10: 12/04/2023
 
 ### Todo
 - Finish Frontend Mentor Project
@@ -74,7 +74,7 @@ I'm struggling to finish the project, overlaying images and the navbar in mobile
 
 **No Link**
 
-## Day 11: 05/12/2023
+## Day 11: 12/05/2023
 
 ### Todo
 - Finish Frontend Mentor Project 📌
@@ -94,7 +94,7 @@ The Javascriptmas of Day 4 was quite interesting but couldn't completed it, I wa
 
 [Javascriptmas Day 5](https://github.com/XiomaraCanizales/JS-practice-projects/tree/main/javascriptmas-2023/day5)
 
-## Day 12: 06/12/2023
+## Day 12: 12/06/2023
 
 ### Todo
 - 28: APIs - Application Programming Interfaces
@@ -109,7 +109,7 @@ I getting the flow of coding. Sometimes I understand, even if I require help, I 
 
 [Link](https://github.com/XiomaraCanizales/JS-practice-projects/tree/main/javascriptmas-2023/day6)
 
-## Day 13: 07/12/2023
+## Day 13: 12/07/2023
 
 ### Todo
 - Javascriptmas Day 7
@@ -127,7 +127,7 @@ I getting the flow of coding. Sometimes I understand, even if I require help, I 
 
 [Javascriptmas Day 8](https://github.com/XiomaraCanizales/JS-practice-projects/tree/main/javascriptmas-2023/day8)
 
-## Day 14: 08/12/2023
+## Day 14: 12/08/2023
 
 ### Todo
 - Study 📌
@@ -140,7 +140,7 @@ I had family visits so I was busy all day.
 
 **No Link**
 
-## Day 15: 09/12/2023
+## Day 15: 12/09/2023
 
 ### Todo
 - Study 📌
@@ -153,7 +153,7 @@ I went to the dentist and don't feel so good but manage to get half the lectures
 
 **No Link**
 
-## Day 16: 10/12/2023
+## Day 16: 12/10/2023
 
 ### Todo
 - Study 📌
