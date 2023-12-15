@@ -9,7 +9,7 @@
 
 ### **The Complete 2023 Web Development Bootcamp**
 
-[ ] S28: APIs - Application Programming Interfaces
+[✓] S28: APIs - Application Programming Interfaces
 
 [ ] S29: Capstone Project - Use a Public API
 
@@ -53,7 +53,7 @@
 
 [ ] Day 13
 
-[ ] Day 14
+[✓] Day 14
 
 [ ] Day 15
 
@@ -61,9 +61,46 @@
 
 [ ] Day 17
 
-## Day 17: 12/11/2023
+## Day 17: 12/12/2023
 
 ### Todo
+- Complete the S28: APIs
+- Read Javascriptmas specifications for days 9 to 12
+- Read frontendpractice.com project (Ableton Page) specifications
+- API Documentation Best Practices
+
+### Progress
+- I completed the Complete the S28: APIs
+
+### Thoughts 
+I took me a lot of time to finish just one course's section, APIs is a subject is taking me a little longer to understand and I've had some difficulties when working node.js projects, so I wanted to take my time when studying the basics.
+
+**No Link**
+
+## Day 18: 12/14/2023
+
+### Todo
+- S29: Capstone Project - Use a Public API
+- Javascriptmas day 14
+- Javascriptmas from day 9 to 13
+- Ableton Page Project
+
+### Progress
+- Javascriptmas day 14 is done
+- Javascriptmas day 13 is done *fav
+
+### Thoughts 
+i'm slowwww... it took me 6+ hours to finish 2 exercices
+
+[Javascriptmas Day 14](https://github.com/XiomaraCanizales/JS-practice-projects/tree/main/javascriptmas-2023/day14)
+
+[Javascriptmas Day 13](https://github.com/XiomaraCanizales/JS-practice-projects/tree/main/javascriptmas-2023/day13)
+
+
+## Day 19: 12/15/2023
+
+### Todo
+- Javascriptmas
 
 ### Progress
 
@@ -71,9 +108,10 @@
 
 **No Link**
 
-## Day 18: 12/12/2023
+## Day 20: 12/15/2023
 
 ### Todo
+- Javascriptmas
 
 ### Progress
 
@@ -81,49 +119,10 @@
 
 **No Link**
 
-## Day 19: 12/13/2023
+## Day 21: 12/16/2023
 
 ### Todo
-
-### Progress
-
-### Thoughts 
-
-**No Link**
-
-## Day 20: 12/14/2023
-
-### Todo
-
-### Progress
-
-### Thoughts 
-
-**No Link**
-
-## Day 21: 12/15/2023
-
-### Todo
-
-### Progress
-
-### Thoughts 
-
-**No Link**
-
-## Day 22: 12/15/2023
-
-### Todo
-
-### Progress
-
-### Thoughts 
-
-**No Link**
-
-## Day 23: 12/16/2023
-
-### Todo
+- Javascriptmas
 
 ### Progress
 
