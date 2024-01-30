@@ -4,7 +4,7 @@
 
 ### **The Complete 2023 Web Development Bootcamp**
 
-[ ] S31: Databases
+[✓] S31: Databases
 
 [ ] S32: SQL
 
@@ -15,7 +15,7 @@
 ### **C#**
 [ ] Foundational C# with Microsoft
 
-    [ ] Part 2
+    [✓] Part 2
 
     [ ] Part 3
 
@@ -23,7 +23,7 @@
 
 ### **JavaScript Algorithms and Data Structures**
 
-[ ]  Learn Form Validation
+[➤]  Learn Form Validation
 
 [ ]  Learn Basic String and Array Methods
 
@@ -37,3 +37,20 @@
 
 ### **Others**
 [ ] Rebuild portfolio
+
+## Day 31: 01/29/2024
+
+### Todo
+- S31: Databases
+- Foundational C# with Microsoft, Part 2
+- Learn Form Validation
+
+### Progress
+- Finished S31: Databases
+- Finished Foundational C# with Microsoft, Part 2. Earn Trophy 
+- Learn Form Validation until section 32
+
+### Thoughts 
+-_-
+
+**No Link**
