@@ -11,7 +11,6 @@
 
 [ ]  S34: Capstone Project
 
-[ ]  S35: Authentication & Security
 
 ### **C# Study**
 
@@ -19,9 +18,9 @@
 
 [✓] Part 2
 
-[ ] Part 3
+[✓] Part 3
 
-[ ] Part 4
+[✕] Part 4 (Work next week)
 
 **C# Basics**
 
@@ -33,17 +32,12 @@
 
 [✓]  Learn Form Validation
 
-[ ]  Learn Basic String and Array Methods
+[✓]  Learn Basic String and Array Methods
 
 [ ]  Learn the Date Object
 
 [ ]  📝 Build a Palindrome Checker Project
 
-[ ]  Learn Modern JS Methods
-
-[ ]  Learn localStorage
-
-[ ]  Learn Recursion
 
 ### **YT Videos**
 
@@ -53,7 +47,6 @@
 
 [ ]  Rebuilt portfolio
 
-[ ]  Check projects
 
 ## Day 31: 01/29/2024
 
@@ -123,48 +116,35 @@ C# is not hard but I struggle with logic.
 ## Day 35: 02/15/2024
 
 ### Todo
-- Foundational C# with Microsoft, Part 4
-- Learn the Date Object
-- S34: Capstone Project
+- S33: PostgreSQL
+- Learn Basic String and Array Methods
 
 ### Progress
-
-### Thoughts 
+- Learn Basic String and Array Methods about 40 lessons ins
 
 **No Link**
 
 ## Day 36: 02/16/2024
 
 ### Todo
-- S34: Capstone Project
-- 📝 Build a Palindrome Checker Project
+- S33: PostgreSQL
+- Learn Basic String and Array Methods
 - C# Tutorial for Beginners
 
 ### Progress
-
-### Thoughts 
+- Learn Basic String and Array Methods almost done
 
 **No Link**
 
 ## Day 37: 02/17/2024
 
 ### Todo
+- S33: PostgreSQL 
 - 📝 Build a Palindrome Checker Project
 - C# ,ASP.NET Core Cash Course
 
 ### Progress
-
-### Thoughts 
-
-**No Link**
-
-## Day 38: 02/18/2024
-
-### Todo
-- Node.js Project: Store API
-- Rebuilt portfolio
-
-### Progress
+- Finish the Learn Basic String and Array Methods
 
 ### Thoughts 
 
